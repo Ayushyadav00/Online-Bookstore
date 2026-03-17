@@ -163,4 +163,4 @@ curl -X POST http://localhost:3000/api/book \
 
 ## License
 
-Add a license if you plan to distribute this project.
+Free Open Source License
